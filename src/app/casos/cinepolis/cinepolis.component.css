@@ -1,0 +1,22 @@
+.titulo{
+    text-align: center;
+}
+
+.entradas{
+     padding-right: 50%;
+}
+
+.salidas{
+    padding-left: 50%;
+}
+
+.button{
+    margin: center;
+}
+
+body{
+    background-image: url("https://www.hacesfalta.org.mx/IO/Blogs/FotosPosts/noticia_2235_300X302_s.jpg");
+    background-size: cover;
+    width:120%;
+    
+}

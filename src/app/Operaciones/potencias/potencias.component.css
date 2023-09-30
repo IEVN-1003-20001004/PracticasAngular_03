@@ -1,0 +1,29 @@
+
+h1{
+    color: red;
+}
+
+h2{
+    color: turquoise;
+}
+
+h3{
+    color: green;
+}
+
+input{
+    color: blue;
+}
+
+label{
+    color: white;
+}
+
+button{
+    color: teal;
+    width: 100px;
+}
+
+body{
+    background-color: black;
+}
