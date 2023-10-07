@@ -1,22 +1,151 @@
-.titulo{
-    text-align: center;
+.button1{
+  background-color:gray;
+  color: black;
+  width:120px;
+  height:50px;
+  border-color: black;
+  margin-left: 10%;
 }
 
-.entradas{
-     padding-right: 50%;
+.button2{
+  background-color: gray;
+  color: black;
+  width:120px;
+  height:50px;
+  border-color: black;
+  margin-left: 55%;
+  margin-top: -19%;
 }
 
-.salidas{
-    padding-left: 50%;
+.example-form {
+  min-width: 100px;
+  max-width: 200px;
+  width: 100%;
+  max-height: 100px;
+  min-height: 50px;
+  height: 100%;
+  background-color: #1f202100;
 }
 
-.button{
-    margin: center;
+.example-full-width {
+  width: 100%;
+  background-color: #1f202100;
+}
+
+#ali2 label{
+  height: 0px;
+  width: 132px;
+  margin-top: 0%;
+  margin-left: 8%;
+  color: white;
+  font-weight: bold;  
+  background-color: #1f202100;
+}
+
+#alitex{
+  text-align: center;
+  color: white;
+  font-weight: bolder;
+  background-color: #1f202100;
+}
+
+#botones{
+  border:2px solid white;
+  width: 25%;
+  margin-left: 40%;
+  height: 100px;
+  margin-top: 45px;
+}
+
+#cine{
+  width: 222px;
+  height: auto;
+}
+
+#cinepolis{
+  background-color: #d6c8c8ca;
+  width: 250px;
+  text-align: center;
+  border-radius: 5px;
+  color: black;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+  font-size: 25px;
+  font-weight: bold;
+  background-position: center;
+  margin: auto;
+  text-align: center;
+}
+
+#entradas{
+  border:2px solid white;
+  width: 55%;
+  float: left;
+  margin-left: 35px;
+  height: 10%;
+  box-sizing: 50%;
+}
+
+#imgbo{
+  background-image: url("https://brandlogos.net/wp-content/uploads/2012/11/cinepolis-logo-vector-400x400.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+#impresion{
+  border:2px solid white;
+  margin-top: -500px;
+  background-color: rgba(0, 238, 255, 0.808);
+  color:white;
+  width:35%;
+  margin-left: 20%;
+  height: 85%;
+  font-weight: bolder;
+}
+
+#imprIn{
+  width:20%;
+  background-color: lightblue;
+  margin-left: 190px;
+  margin-top: -20px;
+}
+
+#mensaje{
+  color: red;
+  margin-bottom: 10px;
+  text-align: center;
+  width: 400px;  
+}
+
+#total{
+  border:2px solid white;
+  width: 30%;
+  height: 100px;
+  margin-left: 100px;
+  margin-top: 30px;
 }
 
 body{
-    background-image: url("https://www.hacesfalta.org.mx/IO/Blogs/FotosPosts/noticia_2235_300X302_s.jpg");
-    background-size: cover;
-    width:120%;
-    
+  background-color: #0053a1;
+  width: 122.7%;
+  height: 689.4px;
+  margin-left:-11.5%;  
+}
+
+input{
+  height: 2px;
+  color: black;
+  background-color: #1f202100;
+}
+
+h1{
+  background-color: #0053a1;
+  width: 150px;
+  text-align: center;
+  border-radius: 5px;
+  margin-top: -20px;
+  color: white;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
 }
